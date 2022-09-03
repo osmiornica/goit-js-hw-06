@@ -1,6 +1,7 @@
 ## Co gdzie
 
 [strona na GH Pages](https://osmiornica.github.io/goit-js-hw-06/solved)
+
 [pliki źródłowe](https://github.com/osmiornica/goit-js-hw-06/tree/master/solved)
 
 `./hw-src/` - orginalne pliki z repozytorium
